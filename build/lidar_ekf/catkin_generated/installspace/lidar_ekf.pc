@@ -1,0 +1,8 @@
+prefix=/home/neha/lidar_ws/install
+
+Name: lidar_ekf
+Description: Description of lidar_ekf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

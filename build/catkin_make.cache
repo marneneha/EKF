@@ -1,0 +1,2 @@
+lidar_ekf
+-DCATKIN_DEVEL_PREFIX=/home/neha/lidar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/neha/lidar_ws/install -G Unix Makefiles
